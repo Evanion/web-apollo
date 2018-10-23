@@ -1,0 +1,6 @@
+dist
+.cache
+node_modules
+jest-test-results.json
+.idea
+.DS_Store
